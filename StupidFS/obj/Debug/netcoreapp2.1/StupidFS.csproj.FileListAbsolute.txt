@@ -1,0 +1,11 @@
+C:\Users\freim\RiderProjects\CraftCodeCrewFS\StupidFS\bin\Debug\netcoreapp2.1\StupidFS.deps.json
+C:\Users\freim\RiderProjects\CraftCodeCrewFS\StupidFS\bin\Debug\netcoreapp2.1\StupidFS.runtimeconfig.json
+C:\Users\freim\RiderProjects\CraftCodeCrewFS\StupidFS\bin\Debug\netcoreapp2.1\StupidFS.runtimeconfig.dev.json
+C:\Users\freim\RiderProjects\CraftCodeCrewFS\StupidFS\bin\Debug\netcoreapp2.1\StupidFS.dll
+C:\Users\freim\RiderProjects\CraftCodeCrewFS\StupidFS\bin\Debug\netcoreapp2.1\StupidFS.pdb
+C:\Users\freim\RiderProjects\CraftCodeCrewFS\StupidFS\obj\Debug\netcoreapp2.1\StupidFS.csprojAssemblyReference.cache
+C:\Users\freim\RiderProjects\CraftCodeCrewFS\StupidFS\obj\Debug\netcoreapp2.1\StupidFS.csproj.CoreCompileInputs.cache
+C:\Users\freim\RiderProjects\CraftCodeCrewFS\StupidFS\obj\Debug\netcoreapp2.1\StupidFS.AssemblyInfoInputs.cache
+C:\Users\freim\RiderProjects\CraftCodeCrewFS\StupidFS\obj\Debug\netcoreapp2.1\StupidFS.AssemblyInfo.cs
+C:\Users\freim\RiderProjects\CraftCodeCrewFS\StupidFS\obj\Debug\netcoreapp2.1\StupidFS.dll
+C:\Users\freim\RiderProjects\CraftCodeCrewFS\StupidFS\obj\Debug\netcoreapp2.1\StupidFS.pdb

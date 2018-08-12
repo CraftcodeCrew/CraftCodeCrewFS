@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\freim\.Rider2018.1\system\resharper-host\local\Transient\ReSharperHost\v12\SolutionCaches\_CraftCodeCrewFS.-1243393996.00" t="ExcludeRecursive" />
+    <e p="C:\Users\freim\RiderProjects\CraftCodeCrewFS" t="IncludeFlat">
+      <e p="CraftCodeCrewFS.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="StupidFS" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="StupidFS.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="StupidFS.cs" t="Include" />
+        <e p="StupidFS.csproj" t="IncludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
